@@ -1,0 +1,10 @@
+{
+    "Prefix" : "{BLUE}[Süt]{DEFAULT}",
+    "SutNotEnabled" : "Süt {RED}devre dışı{DEFAULT}.",
+    "SutDisabledBy" : "Süt {BLUE}{0} {white}tarafından {DARKRED}devre dışı{white} bırakıldı.",
+    "SutEnabledBy" : "Süt {BLUE}{0} {white}tarafından {GREEN}etkinleştirildi{white}.",
+    "SutsResettedBy" : "Süt oyuncular {BLUE}{0} {white}tarafından {DEFAULT}sıfırlandı.",
+    "NoPermission" : "{white}Bunun için yetkin {RED}yok{DEFAULT}.",
+    "CantEquipWeapon" : "{GREEN}SÜT OĞLU SÜT {white}olduğun için silah alamazsın.",
+    "BecameSut" : "{GREEN}{0} {white}takımını sattı ve {LIME}süt {white}oldu."
+}
